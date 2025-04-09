@@ -2,7 +2,7 @@
   Methods vs Function:
       1. A method is essentially a function, but it is associated with a specific type (usually a struct). 
       2. Methods are functions that have a "receiver" argument. This receiver allows the method to access and manipulate the data of the type it is associated with.
-      3. Receiver: The receiver is like an argument to the method, but it binds the method to a specific type. It can be a value receiver or a pointer receiver.
+      3. Receiver: The receiver is like an argument not param to the method, but it binds the method to a specific type. It can be a value receiver or a pointer receiver.
 */
 
 package main
